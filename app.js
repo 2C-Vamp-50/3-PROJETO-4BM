@@ -1,4 +1,4 @@
-/*LUCAS BRITTO MENDES PAIVA 21/11/24 */
+/*GABRIEL HENRIQUE BALBINO COSTA 23/11/24*/
 
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
